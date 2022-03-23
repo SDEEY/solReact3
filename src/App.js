@@ -4,9 +4,9 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 1
-const image = 'https://pbs.twimg.com/profile_images/1499240374543519748/PXWQpxJb_400x400.jpg'
-const Title = 'CHATTABOXES NFT'
+const solAmount = 0.01
+const image = 'https://pbs.twimg.com/media/FN1-D_IUYAoJt80?format=jpg&name=medium'
+const Title = 'Space Minions Source'
 
 document.title = Title
 
