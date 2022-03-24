@@ -4,9 +4,9 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 0.01
-const image = 'https://pbs.twimg.com/media/FN1-D_IUYAoJt80?format=jpg&name=medium'
-const Title = 'Space Minions Source'
+const solAmount = 0.05
+const image = 'https://images-ext-2.discordapp.net/external/xD_LoR-L8__nLZB6a64OtSC9TwiwBYEuC0AKMUG_8Lk/https/pbs.twimg.com/profile_images/1506811084338089984/ceoXN7-W_400x400.jpg'
+const Title = 'Baby woman'
 
 document.title = Title
 
