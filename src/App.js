@@ -7,7 +7,7 @@ import imgTwitter from './icons8-twitter-50.png'
 const solAmount = 0.09
 const image = 'https://pbs.twimg.com/profile_images/1512018229664772096/YcG_REdq_400x400.jpg' 
 const Title = 'Kyokudo Genesis'
-const supply = 4000
+const supply = 999
 
 document.title = Title
 
