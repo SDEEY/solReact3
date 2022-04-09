@@ -4,10 +4,10 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 0.09
-const image = 'https://pbs.twimg.com/profile_images/1508880293024907267/MfNrmQZk_400x400.jpg' 
-const Title = 'BRISK APES CLUB'
-const supply = 222
+const solAmount = 0.35
+const image = 'https://pbs.twimg.com/profile_images/1496414272284409860/HScJMilz_400x400.jpg' 
+const Title = 'The Hodlers Project'
+const supply = 1111
 
 document.title = Title
 
