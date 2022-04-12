@@ -4,10 +4,10 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 0.09
-const image = 'https://media.discordapp.net/attachments/906904143761920010/962405671754666004/16495257886148871218703296233726.jpg' 
-const Title = 'Pixel Bounty'
-const supply = 555
+const solAmount = 0.1
+const image = 'https://images-ext-2.discordapp.net/external/g4qSjWxhmVPKCfHotFRMe45pDu47FWslwWQP1RLUGbM/https/pbs.twimg.com/profile_images/1488213457904222216/RpCpRQcw_400x400.jpg' 
+const Title = 'Damaged'
+const supply = 200
 
 document.title = Title
 
