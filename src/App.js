@@ -5,9 +5,9 @@ import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
 const solAmount = 0.05
-const image = 'https://images-ext-2.discordapp.net/external/MGnCKTVSYfBRwcf5rDs2xwdSqSSAKJ17ZHPi9xxUivo/https/pbs.twimg.com/profile_images/1514084941113565189/cqtn-3Jd_400x400.png' 
-const Title = 'Mutant Solana Club'
-const supply = 100
+const image = 'https://images-ext-2.discordapp.net/external/6AkYM4-987DTgemEIbpO2xyMd-_7qs5PX6GLSywqQv4/https/pbs.twimg.com/profile_images/1508832696511905797/uRHK4CyJ_400x400.jpg' 
+const Title = 'Onion'
+const supply = 777
 
 document.title = Title
 
