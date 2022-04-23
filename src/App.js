@@ -5,7 +5,7 @@ import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
 const solAmount = 0.02
-const image = 'https://images-ext-1.discordapp.net/external/ZUc8f6BypCbII8MH1iMvBBfGtwpyUudoqqQsLkC2zYc/https/pbs.twimg.com/profile_images/1512136296352862210/2O6kMJgZ_400x400.jpg' 
+const image = 'https://media.discordapp.net/attachments/952199715250909284/967464739015909376/Aperrr.jpg?width=590&height=590' 
 const Title = 'Aperide'
 const supply = 3333
 
