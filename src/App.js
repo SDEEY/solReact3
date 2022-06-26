@@ -4,14 +4,14 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 0.085
-const image = 'https://images-ext-1.discordapp.net/external/_h1d-RmDUBnD6D1-2WPZsGgt6AY-pGv-FDI8RGVf_Zo/https/pbs.twimg.com/profile_images/1526224019820883969/2tWS04wg_400x400.jpg' 
-const Title = 'Yako Dogs'
-const supply = 3333
+const solAmount = 0
+const image = 'https://media.discordapp.net/attachments/981902816106921994/990592277355319376/441.png?width=611&height=610' 
+const Title = 'MetaGlider'
+const supply = 6666
 
 document.title = Title
 
-const address = "D7xLPt19BogkxXd2C2AAhaHUh1VoDLzxdf9ConG2gJWf"
+const address = "r74VH5E1Hz3uRgG15RjywGPJ9Cztw2yKQszFhofRZT5"
 
 function App() {
   const [opacity, setOpacity] = useState(0)
