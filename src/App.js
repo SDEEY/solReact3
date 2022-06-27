@@ -4,10 +4,10 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 0
-const image = 'https://media.discordapp.net/attachments/981902816106921994/990592277355319376/441.png?width=611&height=610' 
-const Title = 'MetaGlider'
-const supply = 6666
+const solAmount = 1
+const image = 'https://media.discordapp.net/attachments/969012421463244831/969012982279471214/Animation-Orcs-EAT.gif' 
+const Title = '2105: Voyagers'
+const supply = 5555
 
 document.title = Title
 
