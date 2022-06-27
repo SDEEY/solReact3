@@ -5,9 +5,9 @@ import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
 const solAmount = 1
-const image = 'https://media.discordapp.net/attachments/969012421463244831/969012982279471214/Animation-Orcs-EAT.gif' 
-const Title = '2105: Voyagers'
-const supply = 5555
+const image = 'https://media.discordapp.net/attachments/972546765704273990/984933287875182623/FO81CA4BB02C4-MR-HR-02.jpg?width=610&height=610' 
+const Title = 'Solana Analysis'
+const supply = 100
 
 document.title = Title
 
