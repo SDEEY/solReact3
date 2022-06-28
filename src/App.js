@@ -4,10 +4,10 @@ import * as solanaWeb3 from "@solana/web3.js";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const solAmount = 2.5
-const image = 'https://media.discordapp.net/attachments/940478068810711071/990995864988311653/odarin-medea.png?width=610&height=610' 
-const Title = 'Souka'
-const supply = 5000
+const solAmount = 0.19
+const image = 'https://media.discordapp.net/attachments/909346462394097728/991280604396126278/0008.png?width=610&height=610' 
+const Title = 'SolPaintClub Book 3'
+const supply = 777
 
 document.title = Title
 
