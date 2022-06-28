@@ -5,7 +5,7 @@ import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
 const solAmount = 1
-const image = 'https://images-ext-1.discordapp.net/external/l-ZrlBMUkAFM5v4ZMYqbl-UR1WdF2329FeW4tsr68GQ/https/pbs.twimg.com/ext_tw_video_thumb/1541806832901029889/pu/img/jdsADXW_lRyuQsN4.jpg?width=610&height=610' 
+const image = 'https://howrare.is/drop_logos/5421_UZiE4TCu_400x400.jpg' 
 const Title = 'Exomon'
 const supply = 10000
 
